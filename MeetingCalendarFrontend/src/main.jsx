@@ -2,5 +2,5 @@ import { createRoot } from 'react-dom/client'
 import './index.css'
 
 createRoot(document.getElementById('root')).render(
-  <b>Hello JS</b>
+  <b>Hello React JS</b>
 );
